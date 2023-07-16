@@ -1,6 +1,6 @@
 # DontDieInTheWest_QAStudent
 
-Readme.md is always steps to reproduce and capture of issue found.
+Readme.md in branches are always steps to reproduce and capture of issue found.
 
 Folder containing any issues found in Don't Die in the West (DDitW) by Funday Games. 
 
